@@ -1,0 +1,138 @@
+---
+layout: page
+title: Loja Online Conquermedieval
+---
+
+<div class="container-donate">
+    <div class="container">
+        <p class="alert alert-primary">Estamos voltando com nosso servidor de Conquer que esteve pela primeira vez online há {{ site.time | date: '%Y' | minus: 2013 }}  anos atrás. O melhor do Conquer 5095.</p>
+
+        <code>* Vip Potencia De King Level 142 30 Dias R$:50,00</p>  
+        * Set Full [+12] = Brinco Colar Ring Bota Roupa e armas = R$:40,00</p>
+        * Conta Pronta Full Set + Prize + ViP + Garment a escolha:<a href="https://api.whatsapp.com/send/?phone=5598999852694&text=Gostaria+de+receber+mais+detalhes+da+ContaFull" target="_blank"> Detalhes</a>.</p>            
+        * TokenVip Para Cacar 30 Dias R$:30,00</p>
+        * 1kk de Cps 30,00 R$</p>
+        * 2kk de Cps 50,00 R$</p>
+        * 3kk de Cps 70,00 R$</p>
+        * 4kk de Cps 90,00 R$</p>
+        * 5kk de Cps 110,00 R$</p></code> 
+Atenciosamente; Tim - Desenvolvimento - Conquermedieval Server</p>
+nilsonlinux@gmail.com</p>
+</p>
+
+        <div class="text-center">
+            </a>
+            <a class="btn" role="button" href="#" data-toggle="modal" data-target="#pix-modal">
+                <i class="fa-brands fa-usd"></i>Aceitamos PIX<i class="fa-solid fa-star"></i>
+            </a>            
+            <a class="btn" role="button" href="#" data-toggle="modal" data-target="#bitcoin-modal">
+                <i class="fa-brands fa-bitcoin"></i>Bitcoin
+            </a>
+            <a class="btn" role="button" href="#" data-toggle="modal" data-target="#ethereum-modal">
+                <i class="fa-brands fa-ethereum"></i>Ethereum
+            </a>
+        </div>
+
+
+        <div id="pix-modal" class="modal fade crypto-modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title w-100 text-center"><i class="fa-brands fa-usd"></i>Faça um PIX</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="text-center">
+                            <img class="crypto-qr" src="/img/infinitepay.png" />
+                            <div class="crypto-address">
+                                <input type="text" class="form-control" value="nilsonlinux@meu.pix" readonly />
+                                <a class="btn btn-clipboard-copy" role="button">Copiar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>        
+
+        <div id="bitcoin-modal" class="modal fade crypto-modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title w-100 text-center"><i class="fa-brands fa-bitcoin"></i>Bitcoin</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="text-center">
+                            <img class="crypto-qr" src="/img/Bitcoin_QR.png" />
+                            <div class="crypto-address">
+                                <input type="text" class="form-control" value="bc1qqcxjwyle23gnwscec2d2ef3n7hh5pl9yq6fthq" readonly />
+                                <a class="btn btn-clipboard-copy" role="button">Copiar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="ethereum-modal" class="modal fade crypto-modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title w-100 text-center"><i class="fa-brands fa-ethereum"></i>Ethereum</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="text-center">
+                            <img class="crypto-qr" src="/img/Ethereum_QR.png" />
+                            <div class="crypto-address">
+                                <input type="text" class="form-control" value="0x01A2912Ed1CB69E51EE267614d73BfBccE385E09" readonly />
+                                <a class="btn btn-clipboard-copy" role="button">Copiar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-donate-2">
+    <div class="container">
+        <div class="patrons-panel">
+            <h3>Top Players</h3>
+            <table class="table">
+                <tr>
+                    <th>Nome</th>
+                    <th>Website</th>
+                    <th>Total de doações</th>
+                </tr>
+                {% assign sortedDonators = site.data.donators | sort: "amount" | reverse %}
+                {% for donator in sortedDonators %}
+                <tr>
+                    <td>{{ donator.name }}
+                        {% if donator.twitter %}<a href="{{ donator.twitter }}"><i class="fab fa-twitter"></i></a>{% endif %}
+                        {% if donator.facebook %}<a href="{{ donator.facebook }}"><i class="fab fa-facebook"></i></a>{% endif %}
+                        {% if donator.github %}<a href="{{ donator.github }}"><i class="fab fa-github"></i></a>{% endif %}
+                        {% if donator.twitch %}<a href="{{ donator.twitch }}"><i class="fab fa-twitch"></i></a>{% endif %}
+                        {% if donator.youtube %}<a href="{{ donator.youtube }}"><i class="fab fa-youtube"></i></a>{% endif %}
+                        {% if donator.linkedin %}<a href="{{ donator.linkedin }}"><i class="fab fa-linkedin"></i></a>{% endif %}
+                        {% if donator.instagram %}<a href="{{ donator.instagram }}"><i class="fab fa-instagram"></i></a>{% endif %}
+                        {% if donator.steam %}<a href="{{ donator.steam }}"><i class="fab fa-steam"></i></a>{% endif %}
+                    </td>
+                    <td>{% if donator.website %}<a href="{{ donator.website }}">{{ donator.website }}</a>{% endif %}</td>
+                    <td>{% if donator.amount %}${{ donator.amount }}{% else %}*{% endif %}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+
+{% include common-js.html %}
+<script src="/js/sharex.donate.js"></script>
