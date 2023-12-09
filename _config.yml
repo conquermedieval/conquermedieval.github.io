@@ -1,10 +1,10 @@
-name: Nilson
-title: Nilsonlinux Web
-description: Nilsonlinux. Desenvolvedor de soluções com automação inteligente. Zabbix, Grafana, Jira, Bots, Shellscript e outros.
-url: https://nilsonlinux.github.io/
-author: Nilsonlinux
-github: https://github.com/nilsonlinux/Nilsonlinux
-twitter: Nilsonlinux
+name: Conquermedieval
+title: Conquermedieval
+description: Conquermedieval de volta.
+url: https://cmedieval.github.io/
+author: Tim
+github: https://github.com/cmedieval/
+twitter: Conquermedieval
 
 encoding: utf-8
 markdown: kramdown
