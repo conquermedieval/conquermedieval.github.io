@@ -98,6 +98,24 @@ body {
             color: $text-color;
             text-shadow: none;
         }
+
+    .btn1 {
+        position: relative;
+        background-color: $background-highlight;
+        color: $text-color-alt;
+        border-top: 1px solid lighten($background-highlight, 5%);
+        border-radius: 50px;
+        padding: 10px 0px;
+        margin: 10px 10px 0px 10px;
+        font-size: 22px;
+        font-weight: 300;
+        transition: none;
+
+        &:hover {
+            background-color: lighten($background-highlight, 1.5%);
+            color: $text-color;
+            text-shadow: none;
+        }        
         
         &:focus {
             color: $text-color;
