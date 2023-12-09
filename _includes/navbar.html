@@ -1,0 +1,42 @@
+<nav class="navbar navbar-expand-md">
+    <div class="container {% unless page.title %}container-home{% endunless %}">
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span>
+                <i class="fa-solid fa-bars"></i>
+            </span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav nav-main mr-auto">
+                <li class="nav-item{% unless page.title %} active{% endunless %}"><a class="nav-link" href="/">Inicio</a></li>
+                <li class="nav-item{% if page.title == 'Acesso' %} active{% endif %}"><a class="nav-link" href="/acesso">Acesso</a></li>
+                <li class="nav-item{% if page.title == 'Downloads' %} active{% endif %}"><a class="nav-link" href="/downloads">Downloads</a></li>
+                <li class="nav-item{% if page.title == 'Loja Online' %} active{% endif %}"><a class="nav-link" href="/loja_online">Loja Online</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Top Server</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/">Top Level</a>
+                        <a class="dropdown-item" href="/">Top Rank</a>
+                        <a class="dropdown-item" href="/">Top Trojan</a>
+                        <a class="dropdown-item" href="/">Top Fire</a>
+                        <a class="dropdown-item" href="/">Top Water</a>
+                        <a class="dropdown-item" href="/">Top Acrher</a>
+                        <a class="dropdown-item" href="/">Top Warrior</a>
+                        <a class="dropdown-item" href="/">Top Black</a>
+                        <a class="dropdown-item" href="/">Top Flower</a>
+                        <a class="dropdown-item" href="/">Top MoneyBag</a>
+                    </div>
+                </li>                
+                <li class="nav-item{% if page.title == 'Informações do Servidor' %} active{% endif %}"><a class="nav-link" href="/info">Informações do Servidor</a></li>
+            </ul>
+            <ul class="navbar-nav nav-links">
+                <li class="nav-item"><a class="nav-link" href="{{ site.github }}" data-toggle="tooltip" data-placement="bottom" title="GitHub">
+                        <i class="fab fa-github fa-fw"></i></a></li>
+                <li class="nav-item"><a class="nav-link" href="https://twitter.com/{{ site.twitter }}" data-toggle="tooltip" data-placement="bottom" title="Twitter">
+                        <i class="fab fa-twitter fa-fw"></i></a></li>
+                <li class="nav-item"><a class="nav-link" href="https://www.reddit.com/r/Nilsonlinux" data-toggle="tooltip" data-placement="bottom" title="Reddit">
+                        <i class="fab fa-reddit-alien fa-fw"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
