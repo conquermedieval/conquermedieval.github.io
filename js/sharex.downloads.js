@@ -93,7 +93,7 @@ async function GetReleases(repo) {
                         ${latest ? '<span class="badge badge-success">Latest</span>' : ""}
                         ${release.prerelease ? '<span class="badge badge-warning">Pre-release</span>' : ""}
                     </td>
-                    <td>${publishedAt.toLocaleDateString("en-CA")}</td>
+                    <td>${publishedAt.toLocaleDateString("pt-BR")}</td>
                     <td>${activeDays.toFixed(1)}</td>
                     <td>${downloadCount.toLocaleString()}</td>
                 </tr>
