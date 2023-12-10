@@ -90,7 +90,7 @@ async function GetReleases(repo) {
                 <tr class="downloads-release-info collapsed" data-toggle="collapse" data-target="#collapse${release.id}">
                     <td>
                         <i class="fa fa-fw"></i>${EscapeHtml(release.name)}
-                        ${latest ? '<span class="badge badge-success">Latest</span>' : ""}
+                        ${latest ? '<span class="badge badge-success">Novo</span>' : ""}
                         ${release.prerelease ? '<span class="badge badge-warning">Pre-release</span>' : ""}
                     </td>
                     <td>${publishedAt.toLocaleDateString("pt-BR")}</td>
