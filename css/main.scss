@@ -90,7 +90,7 @@ body {
         padding: 10px 0px;
         margin: 10px 10px 0px 10px;
         font-size: 22px;
-        font-weight: 300;
+        font-weight: 256;
         transition: none;
 
         &:hover {
@@ -289,7 +289,7 @@ body {
     p {
         margin: 25px 0px 35px;
         font-size: 25px;
-        font-weight: 300;
+        font-weight: 256;
     }
 }
 
@@ -423,7 +423,7 @@ body {
 
     .row div {
         font-size: 18px;
-        font-weight: 300;
+        font-weight: 256;
         margin-bottom: $container-padding-half;
         display: flex;
         justify-content: center;
@@ -629,7 +629,7 @@ footer {
             border-top: 1px solid lighten($background-highlight, 10%);
             box-shadow: none;
             font-size: 25px;
-            font-weight: 300;
+            font-weight: 256;
             padding-left: 15px;
         }
 
