@@ -1,10 +1,29 @@
-- name: Anônimo
+- name: Anônimo 00
   facebook: 
   instagram: 
   amount: 100
 
-- name: Anônimo1
+- name: Anônimo 01
   facebook: 
   instagram: 
-  amount: 100  
+  amount: 100 
+  
+- name: Anônimo 02
+  facebook: 
+  instagram: 
+  amount: 100 
+  
+- name: Anônimo 03
+  facebook: 
+  instagram: 
+  amount: 100
+  
+- name: Anônimo 04
+  facebook: 
+  instagram: 
+  amount: 50
 
+- name: Anônimo 05
+  facebook: 
+  instagram: 
+  amount: 50
