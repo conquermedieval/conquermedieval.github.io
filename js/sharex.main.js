@@ -10,6 +10,7 @@ function GetLatestReleaseInfo() {
     $.getJSON("https://api.github.com/repos/cmedieval/Downloads/releases/latest").done(function(release) {
         UpdateDownloadButton(release, ".exe", $(".Conquermedieval"));
         UpdateDownloadButton(release, ".rar", $(".Conquermedieval_"));
+        UpdateDownloadButton(release, ".rar", $(".set_update"));        
     });
 
     $.getJSON("https://api.github.com/repos/cmedieval/Downloads/releases/latest").done(function(release) {
