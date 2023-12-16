@@ -91,7 +91,7 @@ body {
         margin: 10px 10px 0px 10px;
         font-size: 22px;
         font-weight: 256;
-        transition: none;
+        transition: background-color 0.5s ease; /* 0.5s é a duração da transição */        
 
         &:hover {
             background-color: lighten($background-highlight, 1.5%);
