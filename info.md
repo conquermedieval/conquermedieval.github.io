@@ -34,7 +34,7 @@ Confira a baixo o que temos em nosso servidor.
         * Diamante Medieval (GuildÁrea GW)
         * Torre Medieval (DesertCity)  
         
-Em breve mais eventos e quests serão adicionadas.  
+Em breve mais eventos e quests serão adicionados.  
 By: [GM]Tim[PM] em 03/12/2023  
 Tenham um bom jogo pessoal.  
 
