@@ -5,7 +5,8 @@ layout: default
 <div class="jumbotron jumbotron-main">
     <div class="container">
         <h1>{{ site.name }}</h1>
-        <p>🎁 Desejamos um Feliz Natal e um ano novo cheio de conquistas e muita saúde.</p>
+        <p>{{ site.time | date: '%Y' | minus: 2023 }} dias Online<p>
+        <p>🎁 Desejamos um Feliz Natal e um ano novo cheio de conquistas e muita saúde.<p>
         <div>
             <button class="btn sharex-download" type="button" data-toggle="collapse" data-target="#download-panel">
                 Download<i class="fa-solid fa-download"></i>
