@@ -5,8 +5,16 @@ layout: default
 <div class="jumbotron jumbotron-main">
     <div class="container">
         <h1>{{ site.name }}</h1>
-        <p id="counter"></p>   
-    <script src="/js/script.js"></script>      
+<style>
+    #counter {
+        border: 2px solid #000; /* Cor e largura da borda */
+        border-radius: 10px; /* Raio da borda, ajuste conforme necessário */
+        padding: 10px; /* Espaçamento interno do elemento */
+    }
+</style>
+
+<p id="counter"></p>
+<script src="/js/script.js"></script> 
         <p>🎁 Desejamos um Feliz Natal e um ano novo cheio de conquistas e muita saúde.<p>
             <button class="btn sharex-download" type="button" data-toggle="collapse" data-target="#download-panel">
                 Download<i class="fa-solid fa-download"></i>
