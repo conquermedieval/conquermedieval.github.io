@@ -34,7 +34,7 @@ function UpdateDownloadButton(release, assetExtension, element) {
 
 document.addEventListener('DOMContentLoaded', function () {
     // Data de início do projeto (no formato AAAA-MM-DD)
-    var startDate = new Date('2022-01-01');
+    var startDate = new Date('2023-12-23');
 
     // Função para calcular a diferença em dias
     function calculateDays() {
