@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Data de início do projeto (no formato AAAA-MM-DD)
-    var startDate = new Date('2023-11-30');
+    var startDate = new Date('2022-11-30');
 
     // Função para calcular a diferença em dias
     function calculateDays() {
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Atualizar o contador
     function updateCounter() {
         var counterElement = document.getElementById('counter');
-        counterElement.textContent = 'Online ha: ' + calculateDays();
+        counterElement.textContent = 'Dias desde o início do projeto: ' + calculateDays();
     }
 
     // Atualizar o contador ao carregar a página
