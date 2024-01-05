@@ -1,0 +1,42 @@
+<nav class="navbar navbar-expand-md">
+    <div class="container {% unless page.title %}container-home{% endunless %}">
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span>
+                <i class="fa-solid fa-bars"></i>
+            </span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav nav-main mr-auto">
+                <li class="nav-item{% unless page.title %} active{% endunless %}"><a class="nav-link" href="/">Inicio</a></li>
+                <li class="nav-item{% if page.title == 'Acesso' %} active{% endif %}"><a class="nav-link" href="/acesso">Acesso</a></li>
+                <li class="nav-item{% if page.title == 'Downloads' %} active{% endif %}"><a class="nav-link" href="/downloads">Downloads</a></li>                
+                <li class="nav-item{% if page.title == 'Loja Online' %} active{% endif %}"><a class="nav-link" href="/loja_online">Loja Online</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Top Server</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="http://130.185.238.100/www/character.php" target="_blank">Top Level</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/rank.php" target="_blank">Top Rank</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/toptrojan.php" target="_blank">Top Trojan</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/TopFire.php" target="_blank">Top Fire</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/topwater.php" target="_blank">Top Water</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/toparchs.php" target="_blank">Top Acrher</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/topWarrior.php" target="_blank">Top Warrior</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/pk.php" target="_blank">Top Black</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/topFlowers.php" target="_blank">Top Flower</a>
+                        <a class="dropdown-item" href="http://130.185.238.100/www/TopMoneyBag.php" target="_blank">Top MoneyBag</a>
+                    </div>
+                </li>                
+                <li class="nav-item{% if page.title == 'Informações do Servidor' %} active{% endif %}"><a class="nav-link" href="/info">Informações do Servidor</a></li>
+            </ul>
+            <ul class="navbar-nav nav-links">
+                <li class="nav-item"><a class="nav-link" href="https://chat.whatsapp.com/KL3e5GC0sUP4Jno0y7rPii" target="_blank" data-toggle="tooltip" data-placement="bottom" title="WhatsAPP">
+                        <i class="fab fa-whatsapp fa-fw"></i></a></li>
+                <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/conquermedieval/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Facebook">
+                        <i class="fab fa-facebook fa-fw"></i></a></li>
+                <li class="nav-item"><a class="nav-link" href="https://discord.com/channels/@me" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Discord">
+                        <i class="fab fa-discord fa-fw"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

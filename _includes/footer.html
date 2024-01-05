@@ -1,0 +1,48 @@
+<footer>
+    <div>
+        <a class="shields" href="https://github.com/nilsonlinux/Nilsonlinux" data-toggle="tooltip" data-placement="top" title="GitHub">
+            <img src="https://img.shields.io/github/stars/nilsonlinux/Nilsonlinux?label=Star&style=social" alt="GitHub" /></a>
+        <a class="shields" href="https://twitter.com/intent/follow?screen_name=Nilsonlinux" data-toggle="tooltip" data-placement="top" title="Twitter">
+            <img src="https://img.shields.io/twitter/follow/Nilsonlinux" alt="Twitter" /></a>
+        <a class="shields" href="https://discord.gg/Nilsonlinux" data-toggle="tooltip" data-placement="top" title="Discord">
+            <img src="https://img.shields.io/discord/194170124859736065?label=Join&logo=Discord&style=social" alt="Discord" /></a>
+        <a class="shields" href="https://www.reddit.com/r/nilsonlinux" data-toggle="tooltip" data-placement="top" title="Reddit">
+            <img src="https://img.shields.io/reddit/subreddit-subscribers/Nilsonlinux?label=Follow&style=social" alt="Reddit" /></a>
+        <p>Copyright &copy; 2007-{{ site.time | date: '%Y' }} <a href="https://github.com/orgs/Nilsonlinux/people">{{ site.author }}</a> · <a href="/privacy-policy">Privacy Policy</a></p>
+    </div>
+</footer>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/631797a854f06e12d89325b7/1gca2grer';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<script>
+    $(document).ready(function() {
+        $('[data-toggle="tooltip"]:not([title=""])').tooltip({
+            trigger: "hover"
+        });
+    });
+</script>
+
+{% if page.title != "Authorization" %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FMKGNQHF87"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FMKGNQHF87');
+</script>
+       
+{% endif %}
