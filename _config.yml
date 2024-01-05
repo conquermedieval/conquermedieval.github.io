@@ -1,0 +1,15 @@
+name: Medieval
+title: Conquermedieval
+description: Conquermedieval de volta.
+url: https://conquermedieval.github.io/
+author: Tim
+github: https://github.com/conquermedieval/
+twitter: Conquermedieval
+
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]

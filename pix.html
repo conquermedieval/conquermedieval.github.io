@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px 5px 0 0;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .loading-skeleton-qrcode,
+        .loading-skeleton-info {
+            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+            background-size: 200% 100%;
+            animation: loading 1.5s infinite;
+            height: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .loading-skeleton-qrcode {
+            width: 390px;
+            height: 390px;
+            border: 8px solid #f0f0f0;
+            border-top: 8px solid #007BFF;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes loading {
+            0% {
+                background-position: -200% 0;
+            }
+            100% {
+                background-position: 200% 0;
+            }
+        }
+
+        .qrcode-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .qrcode-container img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Escaneie o QR code abaixo para fazer sua doação</h1>
+        </header>
+        <section class="content">
+            <div class="qrcode-container">
+                <div class="loading-skeleton-qrcode"></div>
+                <p class="message loading-skeleton-info" style="display: none;"><code>nilsonlinux@meu.pix</code>
+                 </p>                
+                <img src="https://raw.githubusercontent.com/nilsonlinux/nilsonlinux.github.io/master/img/infinitepay.png" alt="QR Code da Doação" style="display: none;">
+            </div>
+        </section>
+    </div>
+    <script>
+        // JavaScript para mostrar a mensagem informativa e a imagem do QR code após o término do carregamento esquelético.
+        setTimeout(function() {
+            const skeletonQrcode = document.querySelector(".loading-skeleton-qrcode");
+            const message = document.querySelector(".message.loading-skeleton-info");
+            const qrcodeImage = document.querySelector(".qrcode-container img");
+            if (skeletonQrcode && qrcodeImage && message) {
+                skeletonQrcode.style.display = "none";
+                message.style.display = "block";
+                qrcodeImage.style.display = "block";
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
+
