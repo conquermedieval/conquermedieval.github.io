@@ -2,7 +2,7 @@ $(document).ready(function() {
     let repo = GetParameterByName("repo");
 
     if (!repo) {
-        repo = "cmedieval/Downloads";
+        repo = "conquermedieval/conquermedieval.github.io";
     }
 
     let repoInput = $("#downloads-repo");
@@ -25,7 +25,7 @@ $(document).ready(function() {
 
 async function GetReleases(repo) {
     if (!repo) {
-        repo = "cmedieval/Downloads";
+        repo = "conquermedieval/conquermedieval.github.io";
     }
 
     $(".table-downloads tbody tr").remove();
