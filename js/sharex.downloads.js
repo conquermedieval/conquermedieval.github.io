@@ -2,7 +2,7 @@ $(document).ready(function() {
     let repo = GetParameterByName("repo");
 
     if (!repo) {
-        repo = "conquermedieval/conquermedieval.github.io";
+        repo = "cmedieval/Downloads";
     }
 
     let repoInput = $("#downloads-repo");
@@ -25,7 +25,7 @@ $(document).ready(function() {
 
 async function GetReleases(repo) {
     if (!repo) {
-        repo = "conquermedieval/conquermedieval.github.io";
+        repo = "cmedieval/Downloads";
     }
 
     $(".table-downloads tbody tr").remove();
@@ -91,7 +91,7 @@ async function GetReleases(repo) {
                     <td>
                         <i class="fa fa-fw"></i>${EscapeHtml(release.name)}
                         ${latest ? '<span class="badge badge-success">Novo</span>' : ""}
-                        ${release.prerelease ? '<span class="badge badge-warning">Atualizado</span>' : ""}
+                        ${release.prerelease ? '<span class="badge badge-warning">Pre-release</span>' : ""}
                     </td>
                     <td>${publishedAt.toLocaleDateString("pt-BR")}</td>
                     <td>${activeDays.toFixed(1)}</td>
