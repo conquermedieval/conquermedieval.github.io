@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Atualizar o contador
     function updateCounter() {
         var counterElement = document.getElementById('counter');
-        counterElement.textContent = 'Online há: ' + calculateDays(); counterElement.textContent = 'Dias '
+        counterElement.textContent = 'Online há: ' + calculateDays();
     }
 
     // Atualizar o contador ao carregar a página
