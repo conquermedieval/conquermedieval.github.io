@@ -2,7 +2,7 @@ $(document).ready(function() {
     let repo = GetParameterByName("repo");
 
     if (!repo) {
-        repo = "cmedieval/Downloads";
+        repo = "conquermedieval/Downloads";
     }
 
     let repoInput = $("#downloads-repo");
