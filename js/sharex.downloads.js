@@ -25,7 +25,7 @@ $(document).ready(function() {
 
 async function GetReleases(repo) {
     if (!repo) {
-        repo = "cmedieval/Downloads";
+        repo = "conquermedieval/Downloads";
     }
 
     $(".table-downloads tbody tr").remove();
