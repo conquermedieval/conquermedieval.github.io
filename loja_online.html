@@ -304,7 +304,6 @@ nilsonlinux@gmail.com</p>
                         {% if donator.instagram %}<a href="{{ donator.instagram }}"><i class="fab fa-instagram"></i></a>{% endif %}
                         {% if donator.steam %}<a href="{{ donator.steam }}"><i class="fab fa-steam"></i></a>{% endif %}
                     </td>
-                    <td>{% if donator.website %}<a href="{{ donator.website }}">{{ donator.website }}</a>{% endif %}</td>
                     <td>{% if donator.amount %}R$ {{ donator.amount }}{% else %}*{% endif %}</td>
                 </tr>
                 {% endfor %}
