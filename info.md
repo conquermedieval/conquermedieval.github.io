@@ -7,7 +7,7 @@ title: Informações do Servidor
 
 A retomada veio mediante o encorajamento dos meus antigos colegas. E estamos hoje retomando com muita satisfação e vontade de sempre oferecer o melhor.  
 
-* Foi alocado uma VPS situada no nordeste para uma melhor jogabilidade com ótimo retorno de rota, viabilizando um ping de baixa latência, situado aqui mesmo em Campina Grande - PB.  
+* Foi alocado uma VPS situada no nordeste para uma melhor jogabilidade com ótimo retorno de rota, viabilizando um ping de baixa latência, situado aqui em minha cidade residente em Campina Grande - PB.  
 Agradecimento a empresa BHostBrasil pelos excelentes serviços prestados e com retorno bastante satisfatório.  
 
 Confira a baixo o que temos em nosso servidor. 
