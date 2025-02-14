@@ -1,9 +1,9 @@
 ---
 layout: markdown
-title: Privacy Policy
+title: Política de privacidade
 ---
 
-Os dados coletados é somente dos dados criados através da página de cadastro. 
+Os dados coletados é somente os dados criados através da página de cadastro. 
 
 Nosso banco de dados é seguro, e toda parte de segurança é levado muito a sério.
 
