@@ -3,7 +3,7 @@ layout: markdown
 title: Informações do Servidor
 ---
 
-## Confira o que temos em nosso server - 03/12/2023 {#v15.0.0}
+## Confira o que temos em nosso server - 01/03/2025 {#v15.0.0}
 
 A retomada veio mediante o encorajamento dos meus antigos colegas. E estamos hoje retomando com muita satisfação e vontade de sempre oferecer o melhor.  
 
@@ -35,7 +35,7 @@ Confira a baixo o que temos em nosso servidor.
         * Torre Medieval (DesertCity)  
         
 Em breve mais eventos e quests serão adicionados.  
-By: [GM]Tim[PM] em 03/12/2023  
+By: [GM]Tim[PM] em 01/03/2025  
 Tenham um bom jogo pessoal.  
 
 
