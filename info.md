@@ -35,7 +35,7 @@ Confira a baixo o que temos em nosso servidor.
         * Torre Medieval (DesertCity)  
         
 Em breve mais eventos e quests serão adicionados.  
-By: [GM]Tim[PM] em 01/03/2025  
+By: [GM]Tim[PM] em 17/02/2025  
 Tenham um bom jogo pessoal.  
 
 
