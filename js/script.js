@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Data de início do projeto (no formato AAAA-MM-DD)
-    var startDate = new Date('2025-02-14');
+    var startDate = new Date('2025-02-17');
 
     // Função para calcular a diferença em dias
     function calculateDays() {
