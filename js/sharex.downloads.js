@@ -91,7 +91,7 @@ async function GetReleases(repo) {
                     <td>
                         <i class="fa fa-fw"></i>${EscapeHtml(release.name)}
                         ${latest ? '<span class="badge badge-success">Novo</span>' : ""}
-                        ${release.prerelease ? '<span class="badge badge-warning">Pre-release</span>' : ""}
+                        ${release.prerelease ? '<span class="badge badge-warning">Antecipado</span>' : ""}
                     </td>
                     <td>${publishedAt.toLocaleDateString("pt-BR")}</td>
                     <td>${activeDays.toFixed(1)}</td>
