@@ -9,7 +9,7 @@ $(document).ready(function() {
 function GetLatestReleaseInfo() {
     $.getJSON("https://api.github.com/repos/conquermedieval/Downloads/releases/latest").done(function(release) {
         UpdateDownloadButton(release, ".exe", $(".Conquermedieval"));
-        UpdateDownloadButton(release, ".bat", $(".Conquermedieval_"));
+        UpdateDownloadButton(release, ".bat", $(".Conquermedieval"));
         UpdateDownloadButton(release, ".rar", $(".set_update"));        
     });
 
