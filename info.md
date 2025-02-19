@@ -3,7 +3,7 @@ layout: markdown
 title: Informações do Servidor
 ---
 
-## Confira o que temos em nosso server - 01/03/2025 {#v15.0.0}
+## Confira o que temos em nosso server.
 
 A retomada veio mediante o encorajamento dos meus antigos colegas. E estamos hoje retomando com muita satisfação e vontade de sempre oferecer o melhor.  
 
