@@ -25,7 +25,7 @@ Confira a baixo o que temos em nosso servidor.
         * Pontos inteligentes em TwinCity que realiza a compra de DragonBall e DBScroll com sistema automatizado que converte 10 Dbs em uma DBScroll.
         * Mobs nascem de hora em hora em todos os mapas.
         * Top Classe - Top Team - Top Weekle - Ghost PK e muito outros...
-        * GW com inicio aos Sábados e com finalização no Domingo ás 21hrs
+        * GW com inicio aos Sábados e com finalização no Domingo ás 20hrs
         * Junte 10 FlameBox e troque por um item surpresa. A Chave Medieval também pode ser adiquirida.
         * Use uma chave para ativar os Mobs em qualquer mapa, no local indicado. 
         * Pássaro Medieval (BirdIsland)
