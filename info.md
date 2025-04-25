@@ -13,30 +13,10 @@ Agradecimento a empresa BHostBrasil pelos excelentes serviços prestados e com r
 Confira a baixo o que temos em nosso servidor. 
 
         * Ping mínimo 28ms - Médio 70ms e Máximo 120ms/140ms  
-        * Versão: 5095 - Plus +12 -7 2 Socket  
-        * Classes: Taoist - Trojan - Warrior - Archer.
-        * Pacote inicial Grátis LV15, LV40 Para archer, LV70, LV100 e LV120.
-        * Itens Lv baixo e ExpBall e também itens para promover. Todos gratuitos no pacote inicial.
-        * Mais de 500 novas Garments adicionadas. Adquirida através de compras na loja online.
-        * Level Máximo 130 Free 
-        * VIPToken Caçador: Chances maiores de obterem DBs e FlameBox, com conversão automática realizada a cada 10 DB para DBScroll em todos os Mapas.
-        * Treinamento ativado em TC, com chances de obter DB mesmo estando AFK,também com conversão automática ativa para todos os Playes.
-        * Drop de Dbs moderado com sistema VIP ativado.
-        * Pontos inteligentes em TwinCity que realiza a compra de DragonBall e DBScroll com sistema automatizado que converte 10 Dbs em uma DBScroll.
-        * Mobs nascem de hora em hora em todos os mapas.
-        * Top Classe - Top Team - Top Weekle - Ghost PK e muito outros...
-        * GW com inicio aos Sábados e com finalização no Domingo ás 20hrs
-        * Junte 10 FlameBox e troque por um item surpresa. A Chave Medieval também pode ser adiquirida.
-        * Use uma chave para ativar os Mobs em qualquer mapa, no local indicado. 
-        * Pássaro Medieval (BirdIsland)
-        * Bandit Medieval (PhoenixCastle)
-        * Macaco Medieval (ApeCity)
-        * Diamante Medieval (GuildÁrea GW)
-        * Torre Medieval (DesertCity)  
-        *🕹 Versão 5095
-        *🛟 Pack Inicial Grátis ao Logar com itens + 3 Elite e itens para promover e etc...  
-        *⚔️ Classes / Water - Warrior - Trojan - Fire e Archer  
-        *⚜️ Level Máximo 130  
+        * 🕹Versão: 5095 - Plus +12 -7 2 Socket  
+        * ⚔️ Classes / Water - Warrior - Trojan - Fire e Archer  
+        * 🛟Pacote inicial Grátis LV15, LV40 Para archer, LV70, LV100 e LV120.
+        *⚜️ Level Máximo 130 Free
         *⚜️ Level VIP 142   
         *🔻 Rank Zerado em 03/04/2025  
         *🔘 Drop de Dbs e Cps  
@@ -55,6 +35,23 @@ Confira a baixo o que temos em nosso servidor.
         *🇧🇷 Dedicado BR. Ping 15 a 120ms  
         *⚡️ FPS desbloqueado.  
         *🖥 Tela full  
+        * Itens Lv baixo e ExpBall e também itens para promover. Todos gratuitos no pacote inicial.
+        * Mais de 500 novas Garments adicionadas. Adquirida através de compras na loja online. 
+        * VIPToken Caçador: Chances maiores de obterem DBs e FlameBox, com conversão automática realizada a cada 10 DB para DBScroll em todos os Mapas.
+        * Treinamento ativado em TC, com chances de obter DB mesmo estando AFK,também com conversão automática ativa para todos os Playes.
+        * Drop de Dbs moderado com sistema VIP ativado.
+        * Pontos inteligentes em TwinCity que realiza a compra de DragonBall e DBScroll com sistema automatizado que converte 10 Dbs em uma DBScroll.
+        * Mobs nascem de hora em hora em todos os mapas.
+        * Top Classe - Top Team - Top Weekle - Ghost PK e muito outros...
+        * GW com inicio aos Sábados e com finalização no Domingo ás 20hrs
+        * Junte 10 FlameBox e troque por um item surpresa. A Chave Medieval também pode ser adiquirida.
+        * Use uma chave para ativar os Mobs em qualquer mapa, no local indicado. 
+        * Pássaro Medieval (BirdIsland)
+        * Bandit Medieval (PhoenixCastle)
+        * Macaco Medieval (ApeCity)
+        * Diamante Medieval (GuildÁrea GW)
+        * Torre Medieval (DesertCity)  
+
         
 Em breve mais eventos e quests serão adicionados.  
 By: [GM]Tim[PM] em 17/02/2025  
