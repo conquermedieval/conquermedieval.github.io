@@ -33,29 +33,28 @@ Confira a baixo o que temos em nosso servidor.
         * Macaco Medieval (ApeCity)
         * Diamante Medieval (GuildÁrea GW)
         * Torre Medieval (DesertCity)  
-        *⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
         *🕹 Versão 5095
-        *🛟 Pack Inicial Grátis ao Logar com itens + 3 Elite e itens para promover e etc...
-        *⚔️ Classes / Water - Warrior - Trojan - Fire e Archer
-        *⚜️ Level Máximo 130
-        *⚜️ Level VIP 142 
-        *🔻 Rank Zerado em 03/04/2025
-        *🔘 Drop de Dbs e Cps
-        *📯 Token VIP Caçador.
-        *👘 Mais de 700 novas Garments
-        *🪖 Eventos exclusivos de hora em hora.
-        *🔑 Chave medieval para invocar mobs nos mapas
-        *🔵 Stamina melhorada em todos os mapas.
-        *💎 Mini GW com término as 20hrs todos os dias em diferentes mapas.
-        *★(Segunda) Twin Cite 
-        *★(Terça) Phoenix Castle 
-        *★(Quinta) Desert 
-        *★(Sexta) Bird
-        *⚔️Top SS & FB aos Sábados
-        *🏆 Super GW com término as 20hrs do Domingo
-        *🇧🇷 Dedicado BR. Ping 15 a 120ms
-        *⚡️ FPS desbloqueado.
-        *🖥 Tela full
+        *🛟 Pack Inicial Grátis ao Logar com itens + 3 Elite e itens para promover e etc...  
+        *⚔️ Classes / Water - Warrior - Trojan - Fire e Archer  
+        *⚜️ Level Máximo 130  
+        *⚜️ Level VIP 142   
+        *🔻 Rank Zerado em 03/04/2025  
+        *🔘 Drop de Dbs e Cps  
+        *📯 Token VIP Caçador.  
+        *👘 Mais de 700 novas Garments  
+        *🪖 Eventos exclusivos de hora em hora.  
+        *🔑 Chave medieval para invocar mobs nos mapas  
+        *🔵 Stamina melhorada em todos os mapas.  
+        *💎 Mini GW com término as 20hrs todos os dias em diferentes mapas.  
+        *★(Segunda) Twin Cite  
+        *★(Terça) Phoenix Castle  
+        *★(Quinta) Desert  
+        *★(Sexta) Bird  
+        *⚔️Top SS & FB aos Sábados  
+        *🏆 Super GW com término as 20hrs do Domingo  
+        *🇧🇷 Dedicado BR. Ping 15 a 120ms  
+        *⚡️ FPS desbloqueado.  
+        *🖥 Tela full  
         
 Em breve mais eventos e quests serão adicionados.  
 By: [GM]Tim[PM] em 17/02/2025  
