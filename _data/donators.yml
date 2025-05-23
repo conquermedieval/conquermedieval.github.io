@@ -1,32 +1,32 @@
 - name: Anônimo 00
   facebook: 
   instagram: 
-  amount: 100
+  amount: 80
 
 - name: Anônimo 01
   facebook: 
   instagram: 
-  amount: 100 
-  
+  amount: 100
+
 - name: Anônimo 02
   facebook: 
   instagram: 
-  amount: 50 
-  
+  amount: 100
+
 - name: Anônimo 03
   facebook: 
   instagram: 
-  amount: 80
+  amount: 100 
   
 - name: Anônimo 04
   facebook: 
   instagram: 
-  amount: 50
-
+  amount: 50 
+  
 - name: Anônimo 05
   facebook: 
   instagram: 
-  amount: 62
+  amount: 80
   
 - name: Anônimo 06
   facebook: 
@@ -34,6 +34,16 @@
   amount: 50
 
 - name: Anônimo 07
+  facebook: 
+  instagram: 
+  amount: 62
+  
+- name: Anônimo 08
+  facebook: 
+  instagram: 
+  amount: 50
+
+- name: Anônimo 09
   facebook: 
   instagram: 
   amount: 50
