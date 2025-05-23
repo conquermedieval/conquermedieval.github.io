@@ -12,10 +12,10 @@ Agradecimento a empresa BHostBrasil pelos excelentes serviços prestados e com r
 
 Confira a baixo o que temos em nosso servidor. 
 
-        * Ping mínimo 28ms - Médio 70ms e Máximo 120ms/140ms  
-        * 🕹Versão: 5095 - Plus +12 -7 2 Socket  
-        * ⚔️ Classes / Water - Warrior - Trojan - Fire e Archer  
-        * 🛟Pacote inicial Grátis LV15, LV40 Para archer, LV70, LV100 e LV120.
+        *🛜Ping mínimo 28ms - Médio 70ms e Máximo 120ms/140ms  
+        *🕹 Versão: 5095 - Plus +12 -7 2 Socket  
+        *⚔️ Classes / Water - Warrior - Trojan - Fire e Archer  
+        *🛟 Pacote inicial Grátis LV15, LV40 Para archer, LV70, LV100 e LV120.
         *⚜️ Level Máximo 130 Free
         *⚜️ Level VIP 142   
         *🔻 Rank Zerado em 03/04/2025  
