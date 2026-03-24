@@ -1,7 +1,6 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 @import "highlight";
 
 // Variables
@@ -20,19 +19,6 @@ $header-line-center: linear-gradient(to right, transparent 20%, rgba(255, 255, 2
 $container-padding: 2rem;
 $container-padding-half: $container-padding / 2;
 $container-padding-double: $container-padding * 2;
-
-        /* Seção Principal */
-        .hero {
-            text-align: center;
-            padding: 160px 20px 50px;
-            background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
-        }
-
-        .hero h2 {
-            font-size: 2rem;
-            margin-bottom: 30px;
-            font-family: 'Cinzel', serif;
-        }
 
 // Scrollbar
 
