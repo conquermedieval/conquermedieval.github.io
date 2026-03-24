@@ -54,7 +54,7 @@ Confira a baixo o que temos em nosso servidor.
 
         
 Em breve mais eventos e quests serão adicionados.  
-By: [GM]Tim[PM] em 17/02/2025  
+By: [GM]Tim[PM] em 23/03/2026 
 Tenham um bom jogo pessoal.  
 
 
