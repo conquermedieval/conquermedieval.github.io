@@ -18,7 +18,7 @@ Confira a baixo o que temos em nosso servidor.
         *🛟 Pacote inicial Grátis LV15, LV40 Para archer, LV70, LV100 e LV120.
         *⚜️ Level Máximo 130 Free
         *⚜️ Level VIP 142   
-        *🔻 Rank Zerado em 03/04/2025  
+        *🔻 Rank Zerado em 23/03/2026  
         *🔘 Drop de Dbs e Cps  
         *📯 Token VIP Caçador.  
         *👘 Mais de 700 novas Garments  
